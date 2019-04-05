@@ -1,6 +1,11 @@
 - [X] init git
 - [X] pick a backend
 	PhoneGap -> you can make ios apps without having a mac
-- [ ] upload to github
-- [ ] mark in my projects folder where this project can be found to work on
+- [X] upload to github
+- [X] mark in my projects folder where this project can be found to work on
 - [ ] bring together structure and plan for project
+
+	- cordova/phonegap sets up a certain structure.
+	- I'll use android for now because I can get internet on my android phone here.
+
+- [ ] learn some basic phonegap
