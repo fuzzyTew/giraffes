@@ -1,0 +1,6 @@
+- [X] init git
+- [X] pick a backend
+	PhoneGap -> you can make ios apps without having a mac
+- [ ] upload to github
+- [ ] mark in my projects folder where this project can be found to work on
+- [ ] bring together structure and plan for project
